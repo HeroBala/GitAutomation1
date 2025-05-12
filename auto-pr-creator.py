@@ -116,3 +116,5 @@ github_api(f"/repos/{REPO}/issues/{pr_number}/assignees", "POST", {"assignees": 
 
 # === Done ===
 print(f"\n[bold magenta]🎉 Done! Pull request created:[/bold magenta] [cyan]{pr_url}[/cyan]")
+
+This file was updated by PR automation script.
